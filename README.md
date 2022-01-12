@@ -1,2 +1,4 @@
 # dio-shopping
-Desafio de projeto da DIO
+Repositório do desafio de projeto da DIO
+
+Desafio de projeto digital innovation one
